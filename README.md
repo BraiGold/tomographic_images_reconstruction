@@ -2,6 +2,7 @@
 
 Trabajo practico 3 de metodos Numericos
 Se comparan diferentes metodos numericos de reconstruccion de imagenes a partir de intensidad de rayos. Se estudia tambien diferentes disposiciones de estos rayos y su densidad sugerida.
+Se implementaro usando librerias de algebra lineal en python y tambien sin librerias en c++.
 
 para mas detalle ver el [INFORME](https://gitlab.com/atun/xrays-metodosnumericos/blob/master/tp3-metnum.pdf)
 
