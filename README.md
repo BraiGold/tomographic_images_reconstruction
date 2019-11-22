@@ -1,4 +1,4 @@
-#Analisis de metodos para reconstruccion de imagenes tomograficas
+# Analisis de metodos para reconstruccion de imagenes tomograficas
 
 Trabajo practico 3 de metodos Numericos
 Se comparan diferentes metodos numericos de reconstruccion de imagenes a partir de intensidad de rayos. Se estudia tambien diferentes disposiciones de estos rayos y su densidad sugerida.
